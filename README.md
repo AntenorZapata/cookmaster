@@ -12,8 +12,6 @@
 
 - Consultar arquivos do servidor através de uma api REST.
 
-- Realizar testes de integração
-
 ---
 
 # Requisitos do projeto
