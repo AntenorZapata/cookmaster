@@ -1,4 +1,5 @@
-### Neste projeto, fui capaz de:
+### 💡Meus comentários
+Neste projeto, fui capaz de:
 
 - Entender o que há por dentro de um token de autenticação;
 
